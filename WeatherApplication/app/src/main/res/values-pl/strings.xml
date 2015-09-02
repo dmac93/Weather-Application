@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pogoda</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="dialogList">Proszę czekać, aktualizowanie</string>
+    <string name="hello_world">Witaj świecie!</string>
+    <string name="humidity">Wilgotność:</string>
+    <string name="local">Sprawdź po lokalizacji</string>
+    <string name="next">Dalej</string>
+    <string name="select">Proszę wybrać miasto z listy</string>
+    <string name="title">Weather Application</string>
+    <string name="title_activity_city_view"></string>
+    <string name="title_activity_select_reg"></string>
+    <string name="windspeed">Prędkość wiatru:</string>
+</resources>

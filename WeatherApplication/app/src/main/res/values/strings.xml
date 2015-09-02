@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title">Weather Application</string>
+    <string name="next">Next</string>
+    <string name="title_activity_select_reg" translatable="false">SelectRegActivity</string>
+    <string name="select">Please select city from the list</string>
+    <string name="local">Check by localization</string>
+    <string name="title_activity_city_view" translatable="false">CityViewActivity</string>
+
+
+    <string name="humidity">Humidity:</string>
+    <string name="windspeed">Wind speed:</string>
+
+    <string name="dialogList">Please wait, updating...</string>
+
+</resources>
